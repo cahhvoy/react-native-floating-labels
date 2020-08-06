@@ -3,6 +3,8 @@
 A `<FloatingLabel>` component for react-native. This is still very much a work
 in progress and only handles the simplest of cases, ideas and
 contributions are very welcome.
+### Updated Parts of the repo :
+
 
 ![Demo](https://raw.githubusercontent.com/mayank-patel/react-native-floating-labels/master/demo.gif)
 
